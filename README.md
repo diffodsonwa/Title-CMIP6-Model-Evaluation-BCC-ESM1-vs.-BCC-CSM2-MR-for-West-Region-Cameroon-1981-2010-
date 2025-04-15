@@ -1,0 +1,2 @@
+# Title-CMIP6-Model-Evaluation-BCC-ESM1-vs.-BCC-CSM2-MR-for-West-Region-Cameroon-1981-2010-
+Python analysis comparing BCC-ESM1 &amp; BCC-CSM2-MR (CMIP6) models to ERA5 observations. Evaluates global &amp; West Cameroon precipitation/temperature patterns, biases, and correlations. Includes visualizations of seasonal trends and spatial distributions. Uses xarray, matplotlib, and cartopy for NetCDF processing.
